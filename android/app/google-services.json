@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "108873628790",
+    "project_id": "mensaapp2",
+    "storage_bucket": "mensaapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108873628790:android:a9a6299b728bfe3b153357",
+        "android_client_info": {
+          "package_name": "com.MensaApp2.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIqoA4FCn9I-SozUurekLalpWBt0SerU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108873628790:android:3413d09c0484278f153357",
+        "android_client_info": {
+          "package_name": "com.mensaapp2.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbIqoA4FCn9I-SozUurekLalpWBt0SerU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
